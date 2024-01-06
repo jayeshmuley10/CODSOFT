@@ -5,7 +5,7 @@
 In the realm of text, the Handwritten Text Scribe emerges, ready to craft new narratives through the mystical powers of recurrent neural networks (RNNs). This project focuses on training an RNN model to generate handwritten-like text based on learned patterns.
 
 ## Introduction
-
+ 
 The Handwritten Text Scribe seeks to emulate the artistry of handwritten text using the arcane knowledge of character-level recurrent neural networks (RNNs). Trained on a dataset of handwritten text examples, this scribe is capable of weaving new text based on the learned patterns.
 
 ## Dataset
