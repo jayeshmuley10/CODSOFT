@@ -1,6 +1,6 @@
 # 🎬 Codsoft Movie Genre Classification
 
-![Movie Genres](https://img.shields.io/badge/Movie%20Genres-Classification-brightgreen)
+![Movie Genres](https://img.shields.io/badge/Movie%20Genres-Classification-brightgreen) 
 
 Once upon a reel in the Codsoft Cinema kingdom, a quest began to unravel the secrets of movie genres. Welcome to the Genre Oracle, a magical machine learning journey predicting movie genres based on the mystical art of textual analysis.
 
