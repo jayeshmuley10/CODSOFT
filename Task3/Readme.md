@@ -1,6 +1,6 @@
 # 🛒🛍️ CodSoft ChurnMaster: Customer Churn Prediction
 
-![Churn Prediction](https://img.shields.io/badge/Churn%20Prediction-Enabled-orange)
+![Churn Prediction](https://img.shields.io/badge/Churn%20Prediction-Enabled-orange) 
 
 In the realm of business, ChurnMaster stands as the sentinel against customer attrition. This project focuses on predicting customer churn for subscription-based services using the powers of machine learning.
 
