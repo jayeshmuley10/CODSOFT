@@ -1,6 +1,6 @@
 # 📵 SMS Guardian: Spam Detection
 
-![Spam Detection](https://img.shields.io/badge/Spam%20Detection-Activated-red)
+![Spam Detection](https://img.shields.io/badge/Spam%20Detection-Activated-red) 
 
 In the realm of communication, SMS Guardian stands vigilant against the whispers of deceit. This project delves into building an AI model capable of distinguishing between genuine messages and spam.
 
