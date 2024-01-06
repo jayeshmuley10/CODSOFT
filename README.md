@@ -1,4 +1,5 @@
 # 🚀 CODSOFT Machine Learning Quest
+![Movie Genres](https://img.shields.io/badge/Movie%20Genres-Classification-brightgreen) ![Fraud Detection](https://img.shields.io/badge/Fraud%20Detection-Enabled-red) ![Churn Prediction](https://img.shields.io/badge/Churn%20Prediction-Enabled-orange) ![Spam Detection](https://img.shields.io/badge/Spam%20Detection-Activated-red) ![Text Generation](https://img.shields.io/badge/Text%20Generation-Enabled-blue)
 
 Welcome, Adventurers, to the CODSOFT Machine Learning Quest! Embark on a journey of discovery, challenges, and machine learning magic across these five thrilling tasks. Let's shape the future of AI together!
 
