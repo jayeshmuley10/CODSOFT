@@ -1,6 +1,6 @@
 # 📝 Handwritten Text Scribe: Generation using RNN
 
-![Text Generation](https://img.shields.io/badge/Text%20Generation-Enabled-blue)
+![Text Generation](https://img.shields.io/badge/Text%20Generation-Enabled-blue) 
 
 In the realm of text, the Handwritten Text Scribe emerges, ready to craft new narratives through the mystical powers of recurrent neural networks (RNNs). This project focuses on training an RNN model to generate handwritten-like text based on learned patterns.
 
