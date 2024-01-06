@@ -1,6 +1,6 @@
 # 🕵🏻🚨👮 FraudShield: Credit Card Fraud Detection
 
-![Fraud Detection](https://img.shields.io/badge/Fraud%20Detection-Enabled-red)
+![Fraud Detection](https://img.shields.io/badge/Fraud%20Detection-Enabled-red) 
 
 Guarding the realms of finance! This project is dedicated to detecting fraudulent credit card transactions through the power of machine learning.
 
