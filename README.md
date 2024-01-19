@@ -40,14 +40,6 @@ In the mystical realm of CODSOFT, we unite as a diverse community, striving for 
 
 📱 [Dataset for Task 4](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
 
-### Task 5: HANDWRITTEN TEXT GENERATION
-- Unleash a character-level RNN to generate mystical handwritten text.
-
-✍🏻 [Dataset for Task 5: Dataset 1](https://paperswithcode.com/dataset/deepwriting) 
-
-📝 [Dataset for Task 5:Dataset 2](https://paperswithcode.com/dataset/iam) 
-
-🖋️ [Dataset for Task 5:Dataset 3](https://paperswithcode.com/dataset/hkr)
 
 Feel the magic within these datasets and wield your skills to unlock the secrets of AI!
 
